@@ -1,0 +1,15 @@
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Users\danir\Desktop\DIO GFT 5\Projetos\Projeto3\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
